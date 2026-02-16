@@ -42,7 +42,8 @@ return {
         "query",
         "vimdoc",
         "go",
-        "python"
+        "python",
+        "just"
       },
       incremental_selection = {
         enable = true,

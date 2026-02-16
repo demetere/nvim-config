@@ -2,6 +2,11 @@
 
 Personal modular Neovim config using lazy.nvim as the plugin manager.
 
+## Critical Instructions
+
+- **NEVER** add `Co-Authored-By` lines to git commits.
+- After making changes, check if CLAUDE.md is invalidated and update it.
+
 ## Project Structure
 
 ```
