@@ -1,0 +1,22 @@
+# Compiled plugin cache
+plugin/
+
+# Swap files
+*.swp
+*.swo
+*~
+
+# macOS
+.DS_Store
+
+# Spell files
+spell/
+
+# Sessions
+sessions/
+
+# Claude Code
+.claude/
+
+# Local overrides (machine-specific)
+lua/demetere/local.lua
